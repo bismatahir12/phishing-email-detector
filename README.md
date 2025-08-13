@@ -5,7 +5,7 @@ This project is a Machine Learning-based web application that detects whether a 
 It uses a trained classification model along with a text vectorizer to analyze the email content and predict its category.
 
 ##  Live Application
-Deployed App: [https://bismah.pythonanywhere.com/](https://bismah.pythonanywhere.com/)
+Deployed App: [https://phishing-email-detector-silk.vercel.app/](https://phishing-email-detector-silk.vercel.app/)
 
 ------------------------------------------------
  Features
