@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    text-align: center;
+    padding: 30px;
+}
+
+textarea {
+    width: 80%;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+.result {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+}
